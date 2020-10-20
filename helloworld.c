@@ -1,7 +1,5 @@
-#inclde<stdo.h>
+#include<stdio.h>
 void main()
 {
-
-  prntf("hello world")
-  
-  }
+  printf("hello world");
+ }
